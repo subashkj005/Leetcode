@@ -21,5 +21,4 @@ def countOdds(low, high):
     else:
         return n + 1
 
-
 print((countOdds(15, 56)))
