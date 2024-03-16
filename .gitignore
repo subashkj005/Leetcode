@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 *.idea
 min_distance_b
+=======
+# env
+/env
+
+# ide
+/.idea
+>>>>>>> a9af0611c509218743f5398c5f8c48562a9a2788
